@@ -39,20 +39,21 @@
 # Cyclic App
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://app.cyclic.sh/#/join/zeeone-ofc)
 
-[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)
+[`Click Here For Tutorial`](https://youtu.be/7nqmS-T6Iis)
 
 <p align="center">
-  <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
+  <a href="https://youtu.be/7nqmS-T6Iis"><img src="https://telegra.ph/file/82cca461eaa8544cd6e9e.jpg" />
 </p>
 
 # Replit App
 [![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Alphabot-Md)](https://replit.com)
 
-[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)
+[`Click Here For Tutorial`](https://youtu.be/7nqmS-T6Iis)
 
 <p align="center">
-  <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
+  <a href="https://youtu.be/7nqmS-T6Iis"><img src="https://telegra.ph/file/82cca461eaa8544cd6e9e.jpg" />
 </p>
+
 
 
 ## ```Coffee ☕```
