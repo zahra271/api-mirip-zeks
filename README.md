@@ -34,14 +34,25 @@
 
 </p>
 
-## ```How to install```
+## ```HOW TO INSTALL```
 
-[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)<br>
+# Cyclic App
+[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://app.cyclic.sh/#/join/zeeone-ofc)
+
+[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)
 
 <p align="center">
   <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
 </p>
 
+# Replit App
+[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Alphabot-Md)](https://replit.com)
+
+[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)
+
+<p align="center">
+  <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
+</p>
 
 
 ## ```Coffee ☕```
